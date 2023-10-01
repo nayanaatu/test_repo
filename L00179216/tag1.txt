@@ -1,1 +1,1 @@
-"trying basic tag commands" 
+"trying basic tag commands added to version v1.0" 
